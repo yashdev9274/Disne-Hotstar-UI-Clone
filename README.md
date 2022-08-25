@@ -1,1 +1,1 @@
-# Disne-Hotstar-UI-Clone
+# Disne-Hotstar-Clone
